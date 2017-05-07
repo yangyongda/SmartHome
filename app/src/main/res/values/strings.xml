@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="smartHome">YY智能家居</string>
+    <string name="setNet">"                   网络设置"</string>
+    <string name="ServerIp">服务器IP：</string>
+    <string name="ServerPort">服务器端口：</string>
+    <string name="kitchen">厨房</string>
+    <string name="bedroom">卧室</string>
+    <string name="livingroom">客厅</string>
+</resources>
